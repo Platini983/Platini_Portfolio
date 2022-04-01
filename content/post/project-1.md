@@ -2,7 +2,7 @@
 date: 2017-04-09T10:58:08-04:00
 description: "A tool that estimates data science salaries."
 featured_image: "/images/positions_by_state.png"
-tags: ["scene"]
+tags: []
 title: "Project 1: Data Science Salary Estimator"
 ---
 
@@ -14,4 +14,4 @@ title: "Project 1: Data Science Salary Estimator"
 
 {{< figure src="/images/positions_by_state.png" >}}
 
-[Link to GitHub Repository](https://github.com/PlayingNumbers/ds_salary_proj)
+[Link to GitHub Repository](https://github.com/Platini983)

@@ -6,11 +6,11 @@
     <description>Recent content in Data Science Portfolio on AMPONSAH MICHAEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://Platini983.github.io/Platini_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://Platini983.github.io/Platini_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: End To End Emotion Classifier</title>
       <link>https://Platini983.github.io/Platini_Portfolio/post/project-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
       
       <guid>https://Platini983.github.io/Platini_Portfolio/post/project-2/</guid>
       <description>For this example project is a Emotion classifier to predict the emotion from text. This could be useful for someone who is new to NLP from a certain country. A model was build using LogisticRegression pipeline. The model was imported using Joblib and the main application was build using streamlit.
