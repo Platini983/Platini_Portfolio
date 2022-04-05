@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on AMPONSAH MICHAEL</title>
+    <title>Data Science And React Portfolio on AMPONSAH MICHAEL</title>
     <link>https://Platini983.github.io/Platini_Portfolio/</link>
-    <description>Recent content in Data Science Portfolio on AMPONSAH MICHAEL</description>
+    <description>Recent content in Data Science And React Portfolio on AMPONSAH MICHAEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jan 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://Platini983.github.io/Platini_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 2: A React Blog Application</title>
+      <title>Project 3: A React Blog Application</title>
       <link>https://Platini983.github.io/Platini_Portfolio/post/project-3/</link>
       <pubDate>Sun, 16 Jan 2022 11:00:59 -0400</pubDate>
       
       <guid>https://Platini983.github.io/Platini_Portfolio/post/project-3/</guid>
-      <description>A blog Application with a Login and Register Page which help authenticate. New user can write a post   Link to GitHub Repository</description>
+      <description>The Application was design using functional React components and React Dom. A REST API with MongoDB was created using Node.js. Then A full MERN Stack(MongoDB, Express, React, Node) was created. MongoDB - document database. Express(.js) - Node.js web framework. React(.js) - a client-side JavaScript framework. Node(.js) - the premier JavaScript web server. A full stack blog Application with a Login and Register Page which help authenticate user. New user can write a post and view.</description>
     </item>
     
     <item>
-      <title>Project 1: Text Clsssification Application</title>
+      <title>Project 2: Text Clsssification Application</title>
       <link>https://Platini983.github.io/Platini_Portfolio/post/project-1/</link>
       <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
       
       <guid>https://Platini983.github.io/Platini_Portfolio/post/project-1/</guid>
       <description>A text data is collected and train to build a model.
-  The model was build using BagOfWords, naive_bayes
+  The model was build using BagOfWords, naive_bayes.
   A storage database is created using sqlite to store the model built.
   A created Sqlite functions are created to store, retrieve and view the data.
   The built model is then used to predict text as software or hardware.
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Project 2: End To End Emotion Classifier</title>
+      <title>Project 1: End To End Emotion Classifier</title>
       <link>https://Platini983.github.io/Platini_Portfolio/post/project-2/</link>
       <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
       
@@ -46,7 +46,7 @@ I was able to get the model to predict the emotion of someone text with 62% accu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Platini983.github.io/Platini_Portfolio/about/</guid>
-      <description>Data Science Enthusiat And React Dev   Data Science and React Dev are my passions. My name is Amponsah Michael and I have been working in the data science field doing a lot of analysis, research and projects for the last 2 years. I see how some people were very far off in their prediction about the current day, but others came very close, and those were the one that inspired me to continue in this field.</description>
+      <description>Data Science Enthusiat And React Dev   Data Science and React Dev are my passions. My name is Amponsah Michael and I have been working in the data science field doing a lot of analysis, research and projects for some years. I see how some people were very far off in their prediction about the current day, but others came very close, and those were the one that inspired me to continue in this field.</description>
     </item>
     
     <item>
