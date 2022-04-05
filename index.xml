@@ -6,7 +6,30 @@
     <description>Recent content in Data Science Portfolio on AMPONSAH MICHAEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://Platini983.github.io/Platini_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://Platini983.github.io/Platini_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: A React Blog Application</title>
+      <link>https://Platini983.github.io/Platini_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 16 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://Platini983.github.io/Platini_Portfolio/post/project-3/</guid>
+      <description>A blog Application with a Login and Register Page which help authenticate. New user can write a post   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Text Clsssification Application</title>
+      <link>https://Platini983.github.io/Platini_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Platini983.github.io/Platini_Portfolio/post/project-1/</guid>
+      <description>A text data is collected and train to build a model.
+  The model was build using BagOfWords, naive_bayes
+  A storage database is created using sqlite to store the model built.
+  A created Sqlite functions are created to store, retrieve and view the data.
+  The built model is then used to predict text as software or hardware.
+  The Application has three interface; Home, Manage and About</description>
+    </item>
+    
     <item>
       <title>Project 2: End To End Emotion Classifier</title>
       <link>https://Platini983.github.io/Platini_Portfolio/post/project-2/</link>
@@ -15,15 +38,6 @@
       <guid>https://Platini983.github.io/Platini_Portfolio/post/project-2/</guid>
       <description>For this example project is a Emotion classifier to predict the emotion from text. This could be useful for someone who is new to NLP from a certain country. A model was build using LogisticRegression pipeline. The model was imported using Joblib and the main application was build using streamlit.
 I was able to get the model to predict the emotion of someone text with 62% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app.</description>
-    </item>
-    
-    <item>
-      <title>Project 1: Data Science Salary Estimator</title>
-      <link>https://Platini983.github.io/Platini_Portfolio/post/project-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://Platini983.github.io/Platini_Portfolio/post/project-1/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
     </item>
     
     <item>
